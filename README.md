@@ -8,8 +8,8 @@ In this project, a neural network has been built and then trained on historical 
 
 ### Files
 
-	- Readme.txt: details of the datasets (including licence) written by the data provider
-	- hour.csv : bike sharing counts aggregated on hourly basis. Records: 17379 hours
+- `Readme.txt`: details of the datasets (including licence) written by the data provider
+- `hour.csv` : bike sharing counts aggregated on hourly basis. Records: 17379 hours
 
 
 ### Data <sup>[1]</sup>
@@ -67,7 +67,7 @@ output_nodes    = 1
 Training loss: 0.069
 Validation loss: 0.144
 
-![Loss]()
+![Loss](https://github.com/yanglinjing/dlnd_p1_bike_sharing_prediction/blob/master/readme_pic/loss.png)
 
 ### Prediction
-![prediction]()
+![prediction](https://github.com/yanglinjing/dlnd_p1_bike_sharing_prediction/blob/master/readme_pic/prediction.png)
